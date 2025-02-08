@@ -1,0 +1,39 @@
+name: Weather Auto-Update
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"  # Runs every 30 minutes
+  workflow_dispatch:  # Enables manual trigger
+
+jobs:
+  update_weather:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch Weather Data
+        env:
+          API_KEY: ${{ secrets.API_KEY }}
+        run: python weather.py
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "Chr728"
+          git config --global user.email "minasderstep@gmail.com"
+
+      - name: Commit and Push Changes
+        run: |
+          git add weather_data.json logfile.txt
+          git commit -m "Updated weather data at $(date)"
+          git push
+        continue-on-error: true
