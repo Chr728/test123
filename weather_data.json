@@ -13,27 +13,27 @@
     ],
     "base": "stations",
     "main": {
-        "temp": -7.79,
-        "feels_like": -11.62,
-        "temp_min": -9.21,
-        "temp_max": -6.44,
-        "pressure": 1017,
-        "humidity": 71,
-        "sea_level": 1017,
+        "temp": -8.05,
+        "feels_like": -8.05,
+        "temp_min": -8.87,
+        "temp_max": -7.15,
+        "pressure": 1016,
+        "humidity": 77,
+        "sea_level": 1016,
         "grnd_level": 1013
     },
-    "visibility": 10000,
+    "visibility": 2816,
     "wind": {
-        "speed": 2.06,
-        "deg": 100
+        "speed": 1.03,
+        "deg": 110
     },
     "snow": {
-        "1h": 0.12
+        "1h": 0.35
     },
     "clouds": {
         "all": 100
     },
-    "dt": 1739078802,
+    "dt": 1739081203,
     "sys": {
         "type": 2,
         "id": 2035189,
