@@ -29,7 +29,7 @@ jobs:
       - name: Configure Git
         run: |
           git config --global user.name "Chr728"
-          git config --global user.email "minasderstep@gmail.com"
+          git config --global user.email "${{ secrets.GIT_EMAIL }}"
 
       - name: Commit and Push Changes
         run: |
