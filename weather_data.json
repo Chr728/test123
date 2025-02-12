@@ -17,10 +17,10 @@
         "feels_like": -22.13,
         "temp_min": -17.52,
         "temp_max": -14.33,
-        "pressure": 1030,
+        "pressure": 1031,
         "humidity": 59,
-        "sea_level": 1030,
-        "grnd_level": 1026
+        "sea_level": 1031,
+        "grnd_level": 1027
     },
     "visibility": 10000,
     "wind": {
@@ -30,7 +30,7 @@
     "clouds": {
         "all": 20
     },
-    "dt": 1739348859,
+    "dt": 1739350838,
     "sys": {
         "type": 1,
         "id": 498,
