@@ -8,33 +8,33 @@
             "id": 601,
             "main": "Snow",
             "description": "snow",
-            "icon": "13d"
+            "icon": "13n"
         }
     ],
     "base": "stations",
     "main": {
-        "temp": -10.59,
-        "feels_like": -17.59,
+        "temp": -10.58,
+        "feels_like": -17.58,
         "temp_min": -11.16,
         "temp_max": -9.96,
-        "pressure": 991,
+        "pressure": 988,
         "humidity": 90,
-        "sea_level": 991,
-        "grnd_level": 987
+        "sea_level": 988,
+        "grnd_level": 984
     },
     "visibility": 201,
     "wind": {
-        "speed": 12.86,
+        "speed": 12.35,
         "deg": 50,
-        "gust": 16.46
+        "gust": 15.95
     },
     "snow": {
-        "1h": 0.14
+        "1h": 1.78
     },
     "clouds": {
         "all": 100
     },
-    "dt": 1739743434,
+    "dt": 1739745002,
     "sys": {
         "type": 1,
         "id": 498,
