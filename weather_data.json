@@ -5,17 +5,17 @@
     },
     "weather": [
         {
-            "id": 601,
+            "id": 600,
             "main": "Snow",
-            "description": "snow",
+            "description": "light snow",
             "icon": "13d"
         }
     ],
     "base": "stations",
     "main": {
-        "temp": -11.01,
-        "feels_like": -18.01,
-        "temp_min": -11.65,
+        "temp": -10.85,
+        "feels_like": -17.85,
+        "temp_min": -11.64,
         "temp_max": -9.96,
         "pressure": 1010,
         "humidity": 86,
@@ -29,15 +29,15 @@
         "gust": 12.86
     },
     "snow": {
-        "1h": 0.51
+        "1h": 0.2
     },
     "clouds": {
         "all": 100
     },
-    "dt": 1739710470,
+    "dt": 1739711514,
     "sys": {
-        "type": 1,
-        "id": 498,
+        "type": 2,
+        "id": 2095341,
         "country": "CA",
         "sunrise": 1739706866,
         "sunset": 1739744560
