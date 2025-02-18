@@ -5,36 +5,36 @@
     },
     "weather": [
         {
-            "id": 803,
+            "id": 804,
             "main": "Clouds",
-            "description": "broken clouds",
+            "description": "overcast clouds",
             "icon": "04n"
         }
     ],
     "base": "stations",
     "main": {
-        "temp": -13.57,
-        "feels_like": -20.57,
+        "temp": -13.8,
+        "feels_like": -20.8,
         "temp_min": -14.37,
-        "temp_max": -12.77,
-        "pressure": 1017,
-        "humidity": 65,
-        "sea_level": 1017,
-        "grnd_level": 1013
+        "temp_max": -13.38,
+        "pressure": 1018,
+        "humidity": 69,
+        "sea_level": 1018,
+        "grnd_level": 1014
     },
-    "visibility": 10000,
+    "visibility": 9656,
     "wind": {
-        "speed": 8.75,
-        "deg": 280,
+        "speed": 8.23,
+        "deg": 270,
         "gust": 11.32
     },
     "clouds": {
-        "all": 75
+        "all": 100
     },
-    "dt": 1739917697,
+    "dt": 1739920137,
     "sys": {
-        "type": 1,
-        "id": 498,
+        "type": 2,
+        "id": 2095341,
         "country": "CA",
         "sunrise": 1739879475,
         "sunset": 1739917533
