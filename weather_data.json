@@ -18,7 +18,7 @@
         "temp_min": -9.44,
         "temp_max": -7.54,
         "pressure": 1022,
-        "humidity": 64,
+        "humidity": 65,
         "sea_level": 1022,
         "grnd_level": 1018
     },
@@ -31,7 +31,7 @@
     "clouds": {
         "all": 75
     },
-    "dt": 1740169876,
+    "dt": 1740171746,
     "sys": {
         "type": 1,
         "id": 498,
