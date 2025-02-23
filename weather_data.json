@@ -5,16 +5,16 @@
     },
     "weather": [
         {
-            "id": 600,
-            "main": "Snow",
-            "description": "light snow",
-            "icon": "13n"
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04n"
         }
     ],
     "base": "stations",
     "main": {
-        "temp": -3.87,
-        "feels_like": -10.46,
+        "temp": -3.79,
+        "feels_like": -10.36,
         "temp_min": -4.48,
         "temp_max": -3.33,
         "pressure": 1014,
@@ -25,18 +25,15 @@
     "visibility": 4828,
     "wind": {
         "speed": 6.17,
-        "deg": 230
-    },
-    "snow": {
-        "1h": 0.13
+        "deg": 240
     },
     "clouds": {
         "all": 100
     },
-    "dt": 1740290834,
+    "dt": 1740292856,
     "sys": {
-        "type": 2,
-        "id": 2095341,
+        "type": 1,
+        "id": 498,
         "country": "CA",
         "sunrise": 1740310980,
         "sunset": 1740349962
