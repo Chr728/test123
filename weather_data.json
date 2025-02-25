@@ -20,7 +20,7 @@
         "pressure": 1005,
         "humidity": 66,
         "sea_level": 1005,
-        "grnd_level": 1002
+        "grnd_level": 1001
     },
     "visibility": 10000,
     "wind": {
@@ -30,7 +30,7 @@
     "clouds": {
         "all": 100
     },
-    "dt": 1740507234,
+    "dt": 1740508664,
     "sys": {
         "type": 1,
         "id": 498,
