@@ -13,8 +13,8 @@
     ],
     "base": "stations",
     "main": {
-        "temp": 0.5,
-        "feels_like": -5.36,
+        "temp": 0.65,
+        "feels_like": -5.16,
         "temp_min": -0.32,
         "temp_max": 1.25,
         "pressure": 995,
@@ -30,13 +30,13 @@
     "clouds": {
         "all": 100
     },
-    "dt": 1740717618,
+    "dt": 1740719644,
     "sys": {
-        "type": 1,
-        "id": 498,
+        "type": 2,
+        "id": 2095341,
         "country": "CA",
-        "sunrise": 1740656165,
-        "sunset": 1740695898
+        "sunrise": 1740742460,
+        "sunset": 1740782382
     },
     "timezone": -18000,
     "id": 6077243,
