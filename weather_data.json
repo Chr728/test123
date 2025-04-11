@@ -8,33 +8,32 @@
             "id": 804,
             "main": "Clouds",
             "description": "overcast clouds",
-            "icon": "04n"
+            "icon": "04d"
         }
     ],
     "base": "stations",
     "main": {
-        "temp": 3.29,
-        "feels_like": 3.29,
-        "temp_min": 2.18,
-        "temp_max": 3.57,
-        "pressure": 1022,
-        "humidity": 88,
-        "sea_level": 1022,
+        "temp": 5.44,
+        "feels_like": 2.64,
+        "temp_min": 4.53,
+        "temp_max": 6.16,
+        "pressure": 1023,
+        "humidity": 81,
+        "sea_level": 1023,
         "grnd_level": 1019
     },
     "visibility": 10000,
     "wind": {
-        "speed": 0.89,
-        "deg": 68,
-        "gust": 1.34
+        "speed": 3.6,
+        "deg": 100
     },
     "clouds": {
         "all": 100
     },
-    "dt": 1744359033,
+    "dt": 1744387697,
     "sys": {
         "type": 2,
-        "id": 2095341,
+        "id": 2011561,
         "country": "CA",
         "sunrise": 1744366525,
         "sunset": 1744414486
