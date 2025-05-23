@@ -2,7 +2,7 @@ name: Weather Auto-Update
 
 on:
   schedule:
-    - cron: "0 */22 * * *"  
+    - cron: "0 */72 * * *"  
   workflow_dispatch:  # Enables manual trigger
 
 jobs:
