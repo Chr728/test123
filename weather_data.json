@@ -5,56 +5,39 @@
     },
     "weather": [
         {
-            "id": 300,
-            "main": "Drizzle",
-            "description": "light intensity drizzle",
-            "icon": "09n"
-        },
-        {
-            "id": 701,
-            "main": "Mist",
-            "description": "mist",
-            "icon": "50n"
-        },
-        {
-            "id": 500,
-            "main": "Rain",
-            "description": "light rain",
-            "icon": "10n"
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03n"
         }
     ],
     "base": "stations",
     "main": {
-        "temp": 5.81,
-        "feels_like": 1.49,
-        "temp_min": 4.59,
-        "temp_max": 6.67,
-        "pressure": 1000,
-        "humidity": 96,
-        "sea_level": 1000,
-        "grnd_level": 997
+        "temp": 5.57,
+        "feels_like": 1.37,
+        "temp_min": 5.57,
+        "temp_max": 5.57,
+        "pressure": 1006,
+        "humidity": 69,
+        "sea_level": 1006,
+        "grnd_level": 1002
     },
-    "visibility": 4828,
+    "visibility": 10000,
     "wind": {
-        "speed": 7.2,
-        "deg": 170,
-        "gust": 10.29
-    },
-    "rain": {
-        "1h": 0.54
+        "speed": 6.65,
+        "deg": 233,
+        "gust": 16.85
     },
     "clouds": {
-        "all": 100
+        "all": 47
     },
-    "dt": 1772934560,
+    "dt": 1773021715,
     "sys": {
-        "type": 1,
-        "id": 498,
         "country": "CA",
-        "sunrise": 1772882527,
-        "sunset": 1772923735
+        "sunrise": 1772968815,
+        "sunset": 1773010216
     },
-    "timezone": -18000,
+    "timezone": -14400,
     "id": 6077243,
     "name": "Montreal",
     "cod": 200
