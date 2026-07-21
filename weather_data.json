@@ -13,31 +13,31 @@
     ],
     "base": "stations",
     "main": {
-        "temp": 16.98,
-        "feels_like": 16.4,
-        "temp_min": 14.58,
-        "temp_max": 17.86,
+        "temp": 21.47,
+        "feels_like": 21.19,
+        "temp_min": 20.48,
+        "temp_max": 21.75,
         "pressure": 1011,
-        "humidity": 64,
+        "humidity": 58,
         "sea_level": 1011,
-        "grnd_level": 1008
+        "grnd_level": 1007
     },
     "visibility": 10000,
     "wind": {
-        "speed": 1.49,
-        "deg": 37,
-        "gust": 2.38
+        "speed": 2.38,
+        "deg": 181,
+        "gust": 5.86
     },
     "clouds": {
-        "all": 98
+        "all": 100
     },
-    "dt": 1784517971,
+    "dt": 1784600470,
     "sys": {
         "type": 2,
-        "id": 2095341,
+        "id": 2008745,
         "country": "CA",
-        "sunrise": 1784453029,
-        "sunset": 1784507825
+        "sunrise": 1784539490,
+        "sunset": 1784594172
     },
     "timezone": -14400,
     "id": 6077243,
