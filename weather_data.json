@@ -5,32 +5,33 @@
     },
     "weather": [
         {
-            "id": 800,
-            "main": "Clear",
-            "description": "clear sky",
-            "icon": "01n"
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03n"
         }
     ],
     "base": "stations",
     "main": {
-        "temp": 2.25,
-        "feels_like": 2.25,
-        "temp_min": -0.54,
-        "temp_max": 3.42,
-        "pressure": 1031,
-        "humidity": 70,
-        "sea_level": 1031,
-        "grnd_level": 1027
+        "temp": 9.56,
+        "feels_like": 7.82,
+        "temp_min": 7.15,
+        "temp_max": 10.24,
+        "pressure": 1025,
+        "humidity": 73,
+        "sea_level": 1025,
+        "grnd_level": 1021
     },
     "visibility": 10000,
     "wind": {
-        "speed": 1.03,
-        "deg": 0
+        "speed": 3.29,
+        "deg": 241,
+        "gust": 6.68
     },
     "clouds": {
-        "all": 0
+        "all": 44
     },
-    "dt": 1793506430,
+    "dt": 1793593214,
     "sys": {
         "type": 2,
         "id": 2095341,
@@ -38,7 +39,7 @@
         "sunrise": 1793532823,
         "sunset": 1793569322
     },
-    "timezone": -14400,
+    "timezone": -18000,
     "id": 6077243,
     "name": "Montreal",
     "cod": 200
